@@ -33,7 +33,7 @@ I ran five real-estate related queries (computation, evaluation, comparison base
 
 Lastly, my grid test includes broken pipe recovery, memory management, and a retry mechanism that restarts up to three times per failed query request. 
 
-##Recommendations
+## Recommendations
 
 The configuration where temperature = 0.1 and top-p = 0.9 (all other parameters kept to default) returned the best results, with all queries returning an advanced quality score of 0.8. 
 The default temperature and top-p parameters were 0.2 and 0.85, respectively. 
